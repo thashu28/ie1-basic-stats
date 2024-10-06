@@ -1,3 +1,7 @@
+##for question 5 
+Making some random changes to apply reset and revert command
+
+
 # Basic Statistics
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
